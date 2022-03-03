@@ -2,7 +2,6 @@
 # Hi there 👋, I'm Ilham Junius
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilhamjunius712@gmail.com)](mailto:ilhamjunius712@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&&link=https://github.com/ilhamjunius)](https://github.com/ilhamjunius)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ilham-junius-767b49151/)](https://www.linkedin.com/in/ilham-junius-767b49151/)
 
 - :books: I am Backend Enthusiast. Currently learning about Backend Engineer using Golang Languange. 
