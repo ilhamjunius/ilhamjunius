@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ilham-junius-767b49151/)](https://www.linkedin.com/in/ilham-junius-767b49151/)
 
 - :books: I am Backend Enthusiast. Currently learning about Backend Engineer using Golang Languange. 
-- :mortar_board: For two months, I have attended the Immersive Program at Alterra Academy. During the program, I have learned about Backend Development, such as Algorithm, Data Structure, Layered Architecture, Time Complexity, Clean Code, System Design, Wireframe, ORM, Git, Git Workflow, Trunk Base Development,Scrum, JWT Authentication, Middleware, RESTful API, Unit Testing, Payment Gateway (Midtrans, Xendit), Docker, Kubernetes (Okteto), Cloud Services Providers (AWS).
+- :mortar_board: For two months, I have attended the Immersive Program at Alterra Academy. During the program, I have learned about Backend Development, such as Algorithm, Data Structure, Layered Architecture, Time Complexity, Clean Code, System Design, Wireframe, ORM, Git with Git Workflow, and Trunk Base Development,Scrum, JWT Authentication, Middleware, RESTful API, Unit Testing, Payment Gateway (Midtrans, Xendit), CI/CD with Github Action, Docker, Kubernetes (Okteto), Cloud Services Providers (AWS).
 <br/>
 
 _***⚡️ Skills and Interests***_
